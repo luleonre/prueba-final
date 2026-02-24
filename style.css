@@ -1,0 +1,14 @@
+.fondo{
+    background-color: aqua;
+}
+
+.titulo{
+    font-family: 'Arial';
+    color: darkblue;
+    text-align: center;
+}
+
+.titulo:hover{
+    color: white;
+    cursor: pointer;
+}
