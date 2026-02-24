@@ -12,3 +12,11 @@
     color: white;
     cursor: pointer;
 }
+
+.texto{
+    position:relative;
+    left : 50px;
+    top : 50 px;
+    border-radius: 5%;
+    
+}
