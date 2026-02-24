@@ -3,9 +3,11 @@
 }
 
 .titulo{
-    font-family: 'Arial';
+    position: relative;
+    font-family: 'New Roman';
     color: darkblue;
     text-align: center;
+    top: 10px;
 }
 
 .titulo:hover{
@@ -16,7 +18,7 @@
 .texto{
     position:relative;
     left : 50px;
-    top : 50 px;
+    top : 50px;
     border-radius: 5%;
     
 }
