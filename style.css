@@ -1,5 +1,5 @@
 .fondo{
-    background-color: aqua;
+    background-color: bisque;
 }
 
 .titulo{
@@ -22,3 +22,157 @@
     border-radius: 5%;
     
 }
+
+.calculadora{
+    position:relative;
+    width : 300px;
+    height : 300px;
+    background-color: gray;
+    border-radius: 15px;
+    margin: 50px auto;
+}
+
+.pantalla{
+    position: relative;
+    width: 260px;
+    height: 45px;
+    top: 20px;
+    left: 20px;
+    background-color: white;
+}
+
+.numero{
+    border-radius: 15%;
+    }
+
+    #n7{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: 40px;
+    left: 30px;
+    background-color: white;
+    }
+    #n8{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: 40px;
+    left: 30px;
+    background-color: white;
+    }
+    #n9{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: 40px;
+    left: 30px;
+    background-color: white;
+    }
+    #nmas{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: 40px;
+    left: 30px;
+    background-color: white;
+    }
+    #nc{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: 40px;
+    left: 30px;
+    background-color: white;
+    }
+    #n4{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -5px;
+    left: 30px;
+    background-color: white;
+    }
+    #n5{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -5px;
+    left: 30px;
+    background-color: white;
+    }
+    #n6{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -5px;
+    left: 30px;
+    background-color: white;
+    }
+    #nmenos{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -5px;
+    left: 30px;
+    background-color: white;
+    }
+    #nigual{
+    position: relative;
+    width : 45px;
+    height : 145px;
+    top: 44px;
+    left: 30px;
+    background-color: white;
+    }
+    #n1{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -50px;
+    left: 30px;
+    background-color: white;
+    }
+    #n2{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -50px;
+    left: 30px;
+    background-color: white;
+    }
+    #n3{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -50px;
+    left: 30px;
+    background-color: white;
+    }
+    #npor{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -50px;
+    left: 30px;
+    background-color: white;
+    }
+    #n0{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -46px;
+    left: 79px;
+    background-color: white;
+    }
+    #ndiv{
+    position: relative;
+    width : 45px;
+    height : 45px;
+    top: -46px;
+    left: 129px;
+    background-color: white;
+    }
+
+    
+
